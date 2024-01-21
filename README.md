@@ -1,6 +1,6 @@
 # rot13
 
-[Originally written as a technical test several years ago.]
+[Originally written as a technical test several years ago. ROT13 substitution cipher.]
 
 I have written two methods to decode strings using ROT13/5 in order to compare and contrast differences.
 
